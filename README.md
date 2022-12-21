@@ -1,2 +1,2 @@
-# projects2022
-Projects created throughout the current year.
+# bmi-calculator
+A program to help evaluate your BMI.
